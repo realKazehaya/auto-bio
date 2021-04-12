@@ -2,7 +2,7 @@
 
 Auto Github bio using api of openweathermap.org.
 
-![a1](https://prnt.sc/11aeift)
+https://prnt.sc/11aeift
 
 ## Installation
 
