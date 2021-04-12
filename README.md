@@ -1,10 +1,8 @@
-# Automatized Github Biography
+# Auto Github Bio
 
-📚 Automatized Github biography using openweathermap.org API
+Auto Github bio using api of openweathermap.org.
 
-Remember to 🌟 this Github if you 💖 it.
-
-![a1](https://i.imgur.com/RGvPQjt.png)
+![a1](https://prnt.sc/11aeift)
 
 ## Installation
 
